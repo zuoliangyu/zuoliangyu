@@ -6,15 +6,13 @@
   <p>
      <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
   </p>
-<div align="center">
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
-</div>
+
   <br/>
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
   <br/>
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=tokyonight" alt="zuoliangyu" />
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="zuoliangyu" />
   </a>
 </div>
 
@@ -33,23 +31,25 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zuoliangyu/zuoliangyu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zuoliangyu/zuoliangyu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zuoliangyu/zuoliangyu/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity & Streak
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
-</div>
-<div align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
 ---
 
 ### 🛠️ Tech Stack & Weapons
@@ -88,12 +88,14 @@
   <a href="https://space.bilibili.com/27619688">
     <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:zuolan1102@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
-  <br>
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=zuoliangyu&label=Profile%20Views&color=blue&style=flat" alt="zuoliangyu" />
 </div>
