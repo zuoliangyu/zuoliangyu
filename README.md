@@ -10,7 +10,9 @@
   <br/>
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
   <br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&hide_border=true" alt="Zuolan's Stats" />
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=tokyonight" alt="zuoliangyu" />
+  </a>
 </div>
 
 ---
