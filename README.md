@@ -19,7 +19,7 @@
 
 ### 🧐 About Me
 
-嘿，我是 **左岚 (Zuolan)**！来自 **米醋电子工作室 (Vinegar Electronics Studio)**。
+嘿，我是 **左岚 (Zuolan)**！来自 **米醋电子工作室**。
 我是一个对底层硬件和嵌入式系统有着狂热“爱恋”的工科男。我的日常就是在数字信号的海洋里冲浪，偶尔教教 AI 怎么看世界。
 
 - 🔭 **I’m currently working on:**
