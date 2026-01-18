@@ -6,6 +6,14 @@
   <p>
      <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
   </p>
+
+  <br/>
+  <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=flat&no-frame=true&column=7&margin-w=15" alt="zuoliangyu" />
+  </a>
 </div>
 
 ---
@@ -19,6 +27,7 @@
     - **EmbeddedKit** (Organization Project)
     - **STM32 Debug Configurator** (VS Code Extension)
     - 🎓 **Graduation Project:** Focusing on signal processing hardware.
+
 ---
 
 ### 🛠️ Tech Stack & Weapons
