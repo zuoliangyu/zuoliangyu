@@ -19,16 +19,6 @@
     - **EmbeddedKit** (Organization Project)
     - **STM32 Debug Configurator** (VS Code Extension)
     - 🎓 **Graduation Project:** Focusing on signal processing hardware.
-
-- 🌱 **I’m currently learning:**
-    - Deploying **YOLOv11** on HarmonyOS development boards.
-    - Advanced **Zynq & PetaLinux** development.
-    - Training my own LLM assistants.
-
-- 🏆 **My Next Big Challenge:**
-    - Preparing for the **2026 National Embedded Chip Competition (FPGA Track)**. 
-    - <i>Targeting the top prize!</i> 🥇
-
 ---
 
 ### 🛠️ Tech Stack & Weapons
