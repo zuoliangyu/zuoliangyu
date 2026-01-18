@@ -6,7 +6,10 @@
   <p>
      <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
   </p>
-
+<div align="center">
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
+</div>
   <br/>
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
   <br/>
@@ -44,7 +47,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 ---
 
 ### 🛠️ Tech Stack & Weapons
