@@ -10,7 +10,6 @@
   <br/>
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
   <br/>
-
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=flat&no-frame=true&column=7&margin-w=15" alt="zuoliangyu" />
   </a>
@@ -27,6 +26,24 @@
     - **EmbeddedKit** (Organization Project)
     - **STM32 Debug Configurator** (VS Code Extension)
     - 🎓 **Graduation Project:** Focusing on signal processing hardware.
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/zuoliangyu/zuoliangyu/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
+</div>
 
 ---
 
@@ -50,11 +67,8 @@
 
 ### 📊 GitHub Stats
 
-既然是谈恋爱，就要坦诚相见，这是我的“身体数据”...啊不，代码数据！😳
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="languages graph" />
 </div>
 
