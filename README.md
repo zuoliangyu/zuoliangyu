@@ -26,31 +26,15 @@
 
 ### 📊 个人战力看板 (The Battlefield)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="Stats Card" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Languages Card" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="195" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="195" alt="Languages Card" />
+</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=false" height="180" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=false&area=true" height="180" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=false" height="195" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&area=true&hide_border=false" height="195" alt="Activity Graph" />
+</p>
 
 ---
 
