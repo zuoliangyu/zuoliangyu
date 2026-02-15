@@ -20,13 +20,8 @@
 
 ### 🧐 About Me
 
-嘿，我是 **左岚 (Zuolan)**！来自 **米醋电子工作室**。
+嘿，我是 **左岚 (Zuolan)**。
 我是一个对底层硬件和嵌入式系统有着狂热“爱恋”的工科男。我的日常就是在数字信号的海洋里冲浪，偶尔教教 AI 怎么看世界。
-
-- 🔭 **I’m currently working on:**
-    - **EmbeddedKit** (Organization Project)
-    - **STM32 Debug Configurator** (VS Code Extension)
-    - 🎓 **Graduation Project:** Focusing on signal processing hardware.
 
 ---
 
@@ -48,6 +43,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  [![Zuolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
