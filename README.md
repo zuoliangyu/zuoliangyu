@@ -71,7 +71,11 @@
 ---
 
 ### 📊 GitHub Stats
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=radical&count_private=true" height="180" alt="stats card" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=radical&langs_count=6" height="180" alt="languages graph" />
+</div>
 <div align="center">
   <table>
     <tr>
