@@ -4,7 +4,7 @@
   <h3>👨‍💻 A Student @ Sichuan Normal University | 🎓 Electronic Information Engineering</h3>
   
   <p>
-     <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
+      <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
   </p>
 
   <br/>
@@ -22,6 +22,11 @@
 
 嘿，我是 **左岚 (Zuolan)**。
 我是一个对底层硬件和嵌入式系统有着狂热“爱恋”的工科男。我的日常就是在数字信号的海洋里冲浪，偶尔教教 AI 怎么看世界。
+
+- 🔭 **I’m currently working on:**
+    - **EmbeddedKit** (Organization Project)
+    - **STM32 Debug Configurator** (VS Code Extension)
+    - 🎓 **Graduation Project:** Focusing on signal processing hardware.
 
 ---
 
@@ -43,7 +48,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  [![Zuolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
@@ -69,8 +73,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="languages graph" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
