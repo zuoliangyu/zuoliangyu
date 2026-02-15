@@ -1,36 +1,73 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Zuolan+👋;Embedded+Developer+🚀;Vinegar+Studio+Core+Member;FPGA+%26+AI+Enthusiast" alt="Typing SVG" />
-  
+
   <h3>👨‍💻 A Student @ Sichuan Normal University | 🎓 Electronic Information Engineering</h3>
-  
+
   <p>
       <i>"代码就像女朋友，不仅要哄（Debug），还要懂得给她买包包（升级硬件）。"</i> 😜
   </p>
 
-  <br/>
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
-  <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="zuoliangyu" />
-  </a>
 </div>
 
 ---
 
-### 🧐 About Me
+### 🧐 关于我 (About Me)
 
 嘿，我是 **左岚 (Zuolan)**。
 我是一个对底层硬件和嵌入式系统有着狂热“爱恋”的工科男。我的日常就是在数字信号的海洋里冲浪，偶尔教教 AI 怎么看世界。
 
-- 🔭 **I’m currently working on:**
-    - **EmbeddedKit** (Organization Project)
-    - **STM32 Debug Configurator** (VS Code Extension)
-    - 🎓 **Graduation Project:** Focusing on signal processing hardware.
+* 🔭 **目前正专注在：**
+    * **EmbeddedKit** (工作室核心项目)
+    * **STM32 Debug Configurator** (VS Code 插件开发)
+    * 🎓 **毕业设计：** 致力于低功耗环境下的信号处理硬件研究。
+* 💬 **你可以找我聊：** 嵌入式开发、FPGA 填坑指南、或者如何优雅地跟编译器“谈恋爱”。
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 个人战力看板 (The Battlefield)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="Stats Card" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Languages Card" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=false" height="180" alt="Streak Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=false&area=true" height="180" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ 核心军火库 (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,matlab,rust,vscode,linux,docker,git,github,raspberrypi,arduino,qt" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/-Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FPGA-FF4F00?style=for-the-badge" />
+</div>
+
+---
+
+### 🐍 贪吃蛇代码轨迹 (Contribution Snake)
 
 <div align="center">
   <picture>
@@ -42,56 +79,7 @@
 
 ---
 
-### 📈 Activity & Streak
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&hide_border=true&area=true" alt="Zuolan's Activity Graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Weapons
-
-这里是我的“军火库”，不仅要硬核，还要好看！✨
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,matlab,rust" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,vim" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,qt" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FPGA-FF4F00?style=for-the-badge" />
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=radical&count_private=true" height="180" alt="stats card" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=radical&langs_count=6" height="180" alt="languages graph" />
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="stats graph" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📫 Connect with Me
+### 📫 捕捉我 (Connect with Me)
 
 <div align="center">
   <a href="https://github.com/zuoliangyu">
@@ -103,11 +91,8 @@
   <a href="mailto:zuolan1102@qq.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <br/>
+  <br/><br/>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=zuoliangyu&label=Profile%20Views&color=blue&style=flat" alt="zuoliangyu" />
+  <img src="https://komarev.com/ghpvc/?username=zuoliangyu&label=Profile%20Views&color=blue&style=flat" alt="Views" />
 </div>
