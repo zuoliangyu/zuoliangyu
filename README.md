@@ -24,33 +24,17 @@
 
 ---
 
-### 📊 个人战力看板 (The Battlefield)
+### 📊 个人战绩看板 (The Battlefield)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="180" alt="Zuolan's Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=radical&langs_count=6&hide_border=true" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195" alt="Zuolan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" height="195" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=radical&area=true&hide_border=true" height="180" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuoliangyu&theme=tokyonight" height="195" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuoliangyu&theme=tokyonight&area=true" height="195" alt="Activity Graph" />
+</p>
 
 ---
 
