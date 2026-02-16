@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Zuolan+👋;Embedded+%26+FPGA+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Zuolan+👋;Embedded+%7C+Rust+%7C+Open+Source" alt="Typing SVG" />
 
-  **四川师范大学 · 电子信息工程 | EmbeddedKit 核心成员**
+  **四川师范大学 · 电子信息工程**
 
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
 </div>
@@ -10,10 +10,12 @@
 
 ### 🧐 关于我
 
-嵌入式与 FPGA 开发者，热衷于在数字信号的世界里折腾底层硬件。
+电赛 & 蓝桥杯竞赛选手，日常写 C / Rust，偶尔折腾嵌入式工具链。
 
-- 🔭 正在做：**EmbeddedKit** (嵌入式工具库) · **STM32 Debug Configurator** (VS Code 插件)
-- 💬 可以聊：嵌入式开发、FPGA、数字信号处理、AI
+- 🏆 维护 [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) — 电赛真题文档（更新至 2025）
+- 🦀 Rust 方向：[AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer) · CodeLine 系列定制
+- 🔧 VS Code 插件：[STM32 Debug Configurator](https://github.com/zuoliangyu/STM32-Debug-Configurator)
+- 💬 可以聊：嵌入式开发、电子竞赛、Rust、STM32
 
 ---
 
@@ -34,11 +36,7 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,verilog,matlab,linux,docker,git,vscode,raspberrypi,arduino,qt" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/-Vivado-007ACC?style=flat-square&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FPGA-FF4F00?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,linux,docker,git,vscode,arduino,qt,html" />
 </div>
 
 ---
