@@ -1,9 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Zuolan's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6" />
-</a>
+<table>
+<tr><td valign="top" width="50%">
 
 ### Hi, I'm Zuolan 👋
 
@@ -27,16 +23,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
 
-<br/>
-
 <a href="https://space.bilibili.com/27619688">
-  <img alt="Bilibili" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/bilibili.svg" />
+  <img src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white" />
 </a>
 <a href="mailto:zuolan1102@qq.com">
-  <img alt="Email" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
----
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zuoliangyu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="100%" alt="Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuoliangyu&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="100%" alt="Top Langs" />
+
+</td></tr>
+</table>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zuoliangyu&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=4" alt="Trophy" />
