@@ -10,7 +10,7 @@
 
 ### 🧐 关于我
 
-电赛 & 蓝桥杯竞赛选手，日常写 C / Rust，偶尔折腾嵌入式工具链。
+日常写 C / Rust，偶尔折腾嵌入式工具链。
 
 - 🏆 维护 [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) — 电赛真题文档（更新至 2025）
 - 🦀 Rust 方向：[AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer) · CodeLine 系列定制
