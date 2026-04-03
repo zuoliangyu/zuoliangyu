@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Zuolan+👋;Embedded+%7C+Rust+%7C+Open+Source" alt="Typing SVG" />
 
-  **四川师范大学 · 电子信息工程**
+  **四川师范大学校友 · 电子信息工程**
 
   <img src="https://count.getloli.com/get/@zuoliangyu?theme=gelbooru" alt="Moe Counter" />
 </div>
@@ -10,12 +10,13 @@
 
 ### 🧐 关于我
 
-日常写 C / Rust，偶尔折腾嵌入式工具链。
+四川师范大学电子信息工程毕业，长期关注嵌入式开发、Rust 工具和 AI CLI 工作流。比起堆技术名词，我更习惯把真正用过、踩过坑、也值得复用的东西做成开源仓库，持续迭代下去。
 
-- 🏆 维护 [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) — 电赛真题文档（更新至 2025）
-- 🦀 Rust 方向：[AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer) · CodeLine 系列定制
-- 🔧 VS Code 插件：[STM32 Debug Configurator](https://github.com/zuoliangyu/STM32-Debug-Configurator)
-- 💬 可以聊：嵌入式开发、电子竞赛、Rust、STM32
+- 📚 资料整理：维护 [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) 与蓝桥杯相关仓库，把竞赛资料做成可检索、可持续更新的公开资源
+- 🦀 工具开发：持续维护 [AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer)，把本地 AI 会话做成真正可浏览、可搜索、可恢复的工具
+- 🔀 工作流管理：维护 [CC Switch Web](https://github.com/zuoliangyu/zuoliangyu-cc-switch-web)，面向 Claude、Codex、Gemini、OpenClaw、OpenCode 做快捷管理、API 配置与 Skills / MCP / 提示词管理
+- 🔧 嵌入式方向：做过 [STM32 Debug Configurator](https://github.com/zuoliangyu/STM32-Debug-Configurator) 这类面向实际开发流程的 VS Code 插件，也会记录单片机和比赛里的踩坑经验
+- 💬 常聊的话题：嵌入式开发、STM32、Rust、AI CLI 工作流、电子竞赛、开发者工具
 
 ---
 
