@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=560&lines=Hi,+I'm+Zuolan+👋;Embedded+%7C+Rust+%7C+AI+CLI+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=760&lines=Hi,+I'm+Zuolan+👋;Embedded+Systems+%7C+Rust+%26+Tauri;AI+Developer+Tools+%7C+Open+Source" alt="Typing SVG" />
 
   **四川师范大学校友 · 电子信息工程**
 
@@ -10,14 +10,24 @@
 
 ### 🧐 关于我
 
-四川师范大学电子信息工程毕业，日常在嵌入式开发、Rust 工具、AI CLI 工作流和学术写作工具几个方向之间穿梭。比起堆技术名词，我更习惯把真正用过、踩过坑、也值得复用的东西做成开源仓库，持续迭代下去。
+四川师范大学电子信息工程毕业。我的起点是 STM32、FPGA 与电子竞赛，现在主要在 **嵌入式系统、Rust / Tauri 和 AI 开发者工具** 的交叉处做开源项目。
 
-- 🛰️ **AI 会话工具**：维护 [AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer)（★116），把本地 AI 会话做成真正可浏览、可搜索、可恢复的桌面工具
-- 🔀 **AI CLI 工作流**：维护 [cc-switch-web](https://github.com/zuoliangyu/cc-switch-web)，面向 Claude / Codex / Gemini / OpenClaw / OpenCode 做快捷切换、API 配置与 Skills / MCP / 提示词管理；同时为 [EFlowCodeLine](https://github.com/zuoliangyu/EFlowCodeLine)、[MicuSubCodeLine](https://github.com/zuoliangyu/MicuSubCodeLine) 等不同站点做 ccline 状态栏定制，并写了 [ai-cli-installer](https://github.com/zuoliangyu/ai-cli-installer) 把这一套工具的安装流程一键化
-- 📚 **学术写作工具链**：维护 [LaTeX-Thesis-Writing](https://github.com/zuoliangyu/LaTeX-Thesis-Writing)（★41，中文学位论文模板 + Claude 写作辅助技能）、[wos-fetch](https://github.com/zuoliangyu/wos-fetch)（★15，Web of Science 文献抓取与全文下载）与配套的 [wos-review](https://github.com/zuoliangyu/wos-review)（证据抽取与综述写作）、[docx-smart-format](https://github.com/zuoliangyu/docx-smart-format)（docx 自动排版）
-- 🏆 **比赛与资料整理**：维护 [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC)（★67，电赛真题，更新至 2025）与 [LQB_TOPIC](https://github.com/zuoliangyu/LQB_TOPIC)（蓝桥杯电子类真题），把竞赛资料做成可检索、可持续更新的公开资源
-- 🔧 **嵌入式方向**：参与维护 [EK-OmniProbe](https://github.com/EmbeddedKitOrg/EK-OmniProbe)（★30，Tauri + Rust 写的嵌入式开发三合一工具，把固件烧录、RTT 调试、串口终端整合在一起）；写过 [STM32-Debug-Configurator](https://github.com/zuoliangyu/STM32-Debug-Configurator)（cortex-debug 快速生成）这类面向实际开发流程的 VS Code 插件；维护 [zuolan_signal](https://github.com/zuoliangyu/zuolan_signal) 信号总仓库（含 F4+FPGA、H7 分支）与 [multisim-spice](https://github.com/zuoliangyu/multisim-spice) 自动化仿真，也会记录 STM32 与蓝桥杯单片机的踩坑实录（[lanqiao-stc-pitfalls](https://github.com/zuoliangyu/lanqiao-stc-pitfalls)）
-- 💬 **常聊的话题**：嵌入式开发、STM32 / FPGA、Rust、AI CLI 工作流、学术写作工具链、电子竞赛、开发者工具
+我偏爱本地优先、跨平台、真正能进入日常工作流的工具：从调试一块芯片，到管理 AI CLI、找回历史会话，再到整理文献和完成论文，尽量把自己踩过的坑变成别人可以直接复用的产品。
+
+### 🚀 现在主要在做
+
+| 方向 | 代表项目 | 在解决什么 |
+| --- | --- | --- |
+| AI 开发者工具 | [AI-Session-Viewer](https://github.com/zuoliangyu/AI-Session-Viewer) | 统一浏览、搜索、统计、导出并恢复 Claude Code / Codex CLI 本地会话，提供桌面端和 Web 服务 |
+| AI CLI 基础设施 | [ai-cli-installer](https://github.com/zuoliangyu/ai-cli-installer) · [cc-switch-web](https://github.com/zuoliangyu/cc-switch-web) | 为 Claude Code / Codex CLI 提供镜像加速与一键安装；在浏览器中管理多种 AI 编码工具的供应商、配置、订阅和会话 |
+| 多端 AI 应用 | [Taffy-Studio](https://github.com/zuoliangyu/Taffy-Studio) · [micu-ai-lib](https://github.com/zuoliangyu/micu-ai-lib) | 探索共享 Rust 核心的多端大模型工作站，并维护 MICU AI 开放社区项目聚合站 |
+| 嵌入式开发 | [EK-OmniProbe](https://github.com/EmbeddedKitOrg/EK-OmniProbe) · [EmbeddedKit](https://github.com/EmbeddedKitOrg/EmbeddedKit) | 作为作者与主要维护者，把固件烧录、源码级调试、RTT、串口和 BLE 整合成一套跨平台工具，并沉淀嵌入式开发库 |
+| 学术工作流 | [LaTeX-Thesis-Writing](https://github.com/zuoliangyu/LaTeX-Thesis-Writing) · [wos-fetch](https://github.com/zuoliangyu/wos-fetch) · [docx-smart-format](https://github.com/zuoliangyu/docx-smart-format) | 覆盖中文学位论文写作、文献检索与全文获取、Word 自动排版等本地工作流 |
+| 电路与竞赛 | [multisim-spice](https://github.com/zuoliangyu/multisim-spice) · [NUEDC_TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) · [LQB_TOPIC](https://github.com/zuoliangyu/LQB_TOPIC) | 用 ngspice 为 AI 生成电路建立自检闭环，并持续整理电赛、蓝桥杯电子类真题与经验 |
+
+此外，我也维护 [STM32-Debug-Configurator](https://github.com/zuoliangyu/STM32-Debug-Configurator)、[zuolan_signal](https://github.com/zuoliangyu/zuolan_signal) 等工程工具，并参与 [micu-image-mcp](https://github.com/Subaru486desuwa/micu-image-mcp)、[prodivix](https://github.com/Mdr-Tutorials/prodivix)、[EFlowCodeLine](https://github.com/EF-FlowCode/EFlowCodeLine) 等社区项目。
+
+💬 欢迎聊：嵌入式开发、STM32 / FPGA、Rust / Tauri、AI CLI 工作流、学术工具链、电子竞赛与开发者工具。
 
 ---
 
@@ -38,7 +48,7 @@
 ### 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,linux,docker,git,vscode,arduino,qt,latex" />
+  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,svelte,astro,python,c,cpp,linux,docker,git,latex" />
 </div>
 
 ---
