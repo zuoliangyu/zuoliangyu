@@ -4,7 +4,7 @@
 
 **嵌入式系统 · Rust / Tauri · AI 开发者工具**
 
-电子信息工程背景，喜欢把真实工程里的麻烦事做成开箱即用的工具。
+做一些自己会用，也希望别人用得上的开源项目。
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-左岚-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/27619688)
 [![Email](https://img.shields.io/badge/Email-联系我-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuolan1102@qq.com)
@@ -14,9 +14,7 @@
 
 ## 关于我
 
-四川师范大学电子信息工程专业毕业，从 STM32、FPGA 和电子竞赛进入工程开发，现在主要关注 **嵌入式工具、跨平台桌面应用和 AI CLI 工作流**。
-
-我偏爱本地优先、数据可控、能长期进入日常工作流的软件。做项目时常用 Rust 承载核心能力，用 Tauri 配合 TypeScript 前端交付桌面端，也会为无图形环境提供 Web 服务。
+四川师范大学电子信息工程专业毕业。平时主要折腾嵌入式、Rust / Tauri 和 AI 开发工具，也会整理一些电子竞赛与学术资料。
 
 ## 公开项目
 
