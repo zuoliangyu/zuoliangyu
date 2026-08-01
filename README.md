@@ -14,8 +14,13 @@
   <a href="https://space.bilibili.com/27619688"><img src="https://img.shields.io/badge/Bilibili-左岚-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   &nbsp;&nbsp;
   <a href="mailto:zuolan1102@qq.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zuoliangyu"><img src="https://komarev.com/ghpvc/?username=zuoliangyu&label=访问量&color=3366cc&style=flat-square" alt="Profile Views" /></a>
+</p>
+
+<p>
+  <sub>访问量</sub><br />
+  <a href="https://github.com/journey-ad/Moe-Counter">
+    <img src="https://count.getloli.com/get/@zuoliangyu?theme=nixietube-2" alt="访问量" />
+  </a>
 </p>
 
 </div>
