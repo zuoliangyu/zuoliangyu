@@ -2,13 +2,21 @@
 
 # 你好，我是左岚 👋
 
-**嵌入式系统 · Rust / Tauri · AI 开发者工具**
+<p><strong>嵌入式系统 · Rust / Tauri · AI 开发者工具</strong></p>
 
-做一些自己会用，也希望别人用得上的开源项目。
+<br />
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-左岚-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/27619688)
-[![Email](https://img.shields.io/badge/Email-联系我-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zuolan1102@qq.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=zuoliangyu&label=访问量&color=3366cc&style=flat-square)](https://github.com/zuoliangyu)
+<p><em>「知识理应流动」</em></p>
+
+<br />
+
+<p>
+  <a href="https://space.bilibili.com/27619688"><img src="https://img.shields.io/badge/Bilibili-左岚-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:zuolan1102@qq.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zuoliangyu"><img src="https://komarev.com/ghpvc/?username=zuoliangyu&label=访问量&color=3366cc&style=flat-square" alt="Profile Views" /></a>
+</p>
 
 </div>
 
