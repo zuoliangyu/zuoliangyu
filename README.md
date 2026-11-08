@@ -7,6 +7,7 @@
 <p align="center"><em>「知识理应流动」</em></p>
 
 <p align="center">
+  <a href="https://zuoliangyu.netlify.app/"><img src="https://img.shields.io/badge/站点导航-我的网页-00AD9F?style=flat-square&logo=netlify&logoColor=white" alt="站点导航" /></a>
   <a href="https://space.bilibili.com/27619688"><img src="https://img.shields.io/badge/Bilibili-左岚-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="mailto:zuolan1102@qq.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -24,19 +25,28 @@
 | [AI CLI Installer](https://github.com/zuoliangyu/ai-cli-installer) | 镜像加速、下载校验、故障切换与跨平台安装 |
 | [CC Switch Web](https://github.com/zuoliangyu/cc-switch-web) | 在浏览器中管理供应商、配置、订阅和本地会话 |
 
-## `02` 嵌入式与电子工程
+## `02` 在线工具
 
 | 项目 | 简介 |
 | --- | --- |
-| [EK-OmniProbe](https://github.com/EmbeddedKitOrg/EK-OmniProbe) | 集成烧录、调试、RTT、串口和 BLE 的跨平台工具 |
+| [蓝桥杯单片机实验台](https://lanqiao-mcu-lab.netlify.app/) | 网页版 CT107D，直接跑 Keil 编译出的 HEX |
+| [蓝桥杯嵌入式实验台](https://lanqiao-embedded-lab.netlify.app/) | 网页版 CT117E-M4，直接跑 ELF / HEX |
+| [Timing Studio](https://timing-studio.netlify.app/) | 画论文里用的数字时序图 |
+
+## `03` 嵌入式与电子工程
+
+| 项目 | 简介 |
+| --- | --- |
+| [MICU-OmniProbe](https://github.com/zuoliangyu/MICU-OmniProbe) | 集成烧录、调试、RTT、串口和 BLE 的跨平台工具 |
 | [TI Toolbox](https://github.com/zuoliangyu/ti-toolbox) | TI MSPM0 环境配置与 CCS / Keil 工程互转 |
 | [multisim-spice](https://github.com/zuoliangyu/multisim-spice) | 让 AI 生成的 SPICE 网表先通过 ngspice 自检 |
 
-## `03` 资料与学术工具
+## `04` 资料与学术工具
 
 | 项目 | 简介 |
 | --- | --- |
 | [NUEDC TOPIC](https://github.com/zuoliangyu/NUEDC_TOPIC) | 全国大学生电子设计竞赛历年赛题与在线检索 |
+| [LQB TOPIC](https://github.com/zuoliangyu/LQB_TOPIC) | 蓝桥杯电子类历年真题，按届和赛道整理 |
 | [LaTeX Thesis Writing](https://github.com/zuoliangyu/LaTeX-Thesis-Writing) | 中文论文模板、检查脚本与 AI 写作技能 |
 | [wos-fetch](https://github.com/zuoliangyu/wos-fetch) | 本地完成文献检索、筛选、全文获取与结构化导出 |
 
@@ -46,6 +56,7 @@
   <p><a href="https://github.com/zuoliangyu/STM32-Debug-Configurator">STM32 Debug Configurator</a> · VS Code Cortex-Debug 配置工具</p>
   <p><a href="https://github.com/EmbeddedKitOrg/EmbeddedKit">EmbeddedKit</a> · 可复用的嵌入式开发库与工具</p>
   <p><a href="https://github.com/zuoliangyu/docx-smart-format">docx-smart-format</a> · Word 文档格式分析与统一</p>
+  <p><a href="https://zuoliangyu.netlify.app/">我的网页导航 →</a></p>
   <p><a href="https://github.com/zuoliangyu?tab=repositories">查看全部公开仓库 →</a></p>
 </details>
 
